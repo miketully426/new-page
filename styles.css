@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Gill Sans';
+}
+
+body {
+    text-align: center;
+    background: blue;
+}
+
+.important {
+    color: red;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+#main-body {
+    background:#57b568
+}
+
+#testing {
+    color: orange;
+    font-weight: 100;
+}
